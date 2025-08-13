@@ -1,6 +1,7 @@
 # Chat Anônimo e Seguro
 
-Um chat focado em anonimato total e segurança, projetado para proteger sua privacidade a cada mensagem.
+Um chat focado em anonimato total e segurança.
+Esse projeto tem como princípio melhorar também meu entendimento da do T.I como um todo, envolvendo programação, networking, criptografia, SQL e etc.
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)
 ![Foco Principal](https://img.shields.io/badge/Foco-Privacidade-blue?style=flat-square)
@@ -11,14 +12,13 @@ Acesse a aplicação ao vivo [aqui](https://bostil.zkazuh.com.br/) e experimente
 
 ## Sobre o Projeto
 
-O "Chat Anônimo e Seguro" é uma plataforma de comunicação projetada com o objetivo primordial de preservar a privacidade e o anonimato dos usuários. Em um mundo onde a coleta de dados e o rastreamento de atividades online são onipresentes, este projeto surge como uma alternativa resistente a essas práticas. Não se trata apenas de um chat simples, mas de um espaço onde cada interação é pensada para minimizar riscos de exposição, evitando logs permanentes, identificadores persistentes e qualquer forma de rastreamento desnecessário. A ênfase está em criar ferramentas que empoderem os usuários a se comunicarem livremente, sem comprometer sua segurança digital.
+O "Chat Anônimo e Seguro" é uma plataforma de chat projetada com o objetivo primordial de preservar a privacidade e o anonimato dos usuários. Este projeto surge como uma alternativa resistente a prática de coleta de dados e a venda da mesma. Não se trata apenas de um chat simples, mas de um espaço onde cada interação é pensada para minimizar riscos de exposição, evitando logs permanentes, identificadores persistentes e qualquer forma de rastreamento desnecessário. A ênfase está em criar ferramentas que empoderem os usuários a se comunicarem livremente, sem comprometer sua segurança digital.
 
 ## Princípios e Funcionalidades
 
 Os princípios centrais do projeto são o **Anonimato Total** e a **Segurança Máxima**. O anonimato garante que os usuários não precisem revelar identidades reais, enquanto a segurança envolve mecanismos para proteger dados em trânsito e dificultar qualquer tentativa de monitoramento ou invasão.
 
-A seguir, uma tabela resumindo as funcionalidades atuais e planejadas:
-
+Atualmente essas são as atualizações !
 | Funcionalidade                          | Status | Descrição |
 |-----------------------------------------|--------|-----------|
 | Chat global único para todos os usuários conectados | ✔     | Permite conversas em tempo real em um espaço compartilhado. |
