@@ -27,6 +27,7 @@ Atualmente essas são as atualizações !
 | Criação de usuários temporários e voláteis com Supabase | 🔜    | Usuários descartáveis para sessões efêmeras. |
 | Lógicas de programação para dificultar rastreamento | 🔜    | Algoritmos para ofuscar padrões de uso e IPs. |
 | Salas de chat privadas e seguras        | 🔜    | Espaços isolados com criptografia adicional. |
+| Inserção do supabase(para dar início)        | 🔜    | Banco de dados para armazenar users e afins |
 
 ## Tecnologias Utilizadas
 
