@@ -30,6 +30,7 @@ export default function PepeTrackerDashboard() {
 
       setProvider(ethProvider);
       setContract(pepe);
+      console.log(provider);
 
       const supply = await pepe.totalSupply();
       setTotalSupply(ethers.formatUnits(supply, 18));
