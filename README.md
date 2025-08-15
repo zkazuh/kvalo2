@@ -64,7 +64,7 @@ cd chat-anonimo-seguro
 - ```bash
   npm install tailwindcss @tailwindcss/vite
 - ```bash
-- npm install firebase
+  npm install firebase
 
 ## Configuração do firebase:
 Crie uma conta no firebase e configure uma nova realtime database, depois disso é só copiar a API.
