@@ -8,7 +8,7 @@ Esse projeto tem como princípio melhorar também meu entendimento da do T.I com
 
 ## Demonstração
 
-Acesse a aplicação ao vivo [aqui](https://bostil.zkazuh.com.br/) e experimente o chat anônimo em ação.
+Acesse a aplicação [aqui](https://bostil.zkazuh.com.br/) e experimente o chat.
 
 ## Sobre o Projeto
 
